@@ -1,0 +1,10 @@
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\bin\Release\net8.0\Bowoo.Lib.deps.json
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\bin\Release\net8.0\Bowoo.Lib.dll
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\Bowoo.Lib.csproj.AssemblyReference.cache
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\Bowoo.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\Bowoo.Lib.AssemblyInfoInputs.cache
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\Bowoo.Lib.AssemblyInfo.cs
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\Bowoo.Lib.csproj.CoreCompileInputs.cache
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\Bowoo.Lib.dll
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\refint\Bowoo.Lib.dll
+C:\Users\js\Documents\BOWOO\20250918\Lib.DB\Bowoo.Lib\obj\Release\net8.0\ref\Bowoo.Lib.dll

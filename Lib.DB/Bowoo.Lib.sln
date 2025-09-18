@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowoo.Lib", "Bowoo.Lib.csproj", "{549D134C-7984-CA10-D581-DEF4981DAACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549D134C-7984-CA10-D581-DEF4981DAACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549D134C-7984-CA10-D581-DEF4981DAACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549D134C-7984-CA10-D581-DEF4981DAACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549D134C-7984-CA10-D581-DEF4981DAACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F5EF96-0EA2-4DB6-B17B-DC86074CBF16}
+	EndGlobalSection
+EndGlobal
